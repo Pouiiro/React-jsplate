@@ -15,6 +15,7 @@ React ready boilerplate that includes the basic setup for:
 - Eslint
 - Dark / Light Mode
 - Routing with two pages
+- Context API
 
 ## Getting Started <a name = "getting_started"></a>
 
